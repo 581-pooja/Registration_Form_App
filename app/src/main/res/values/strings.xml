@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UIChallenge</string>
+    <array name="countries">
+        <item>Mumbai</item>
+        <item>Jaipur</item>
+        <item>Lucknow</item>
+        <item>Virar</item>
+        <item>Italy</item>
+        <item>Germany</item>
+    </array>
+</resources>
